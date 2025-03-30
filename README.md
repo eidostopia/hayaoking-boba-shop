@@ -1,1 +1,3 @@
-# hayaoking-boba-shop
+# Hayaoking Boba Shop
+
+Deployed with Next.js + Vercel.
