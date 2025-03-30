@@ -1,3 +1,2 @@
 # Hayaoking Boba Shop
-
-Deployed with Next.js + Vercel.
+這是專屬於珍珠奶茶原物料展示網站的首頁。
